@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(139, 218, 172);
+   
+}
+
+.Title h1 {
+    color: rgb(28, 73, 27);
+    text-align: center;
+}
+
+.Title p {
+    color: darkslateblue;
+}
+
+.SubTitle ul {
+    display: flex ;
+    list-style: none;
+    justify-content: center;
+
+}
+
+.SubTitle li {
+
+    margin-right:100px ;
+}
+
+.SubTitle a{
+
+     text-decoration:none ;
+     color: red;
+}
+
